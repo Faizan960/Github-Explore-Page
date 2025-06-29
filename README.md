@@ -50,6 +50,20 @@ npm install
 # Step 4: Start the development server
 npm run dev
 ```
+## 🖼️ Preview
+
+### 🔸 Home Page
+
+![Home Page](src/Public/Assets/1.png)
+
+### 🔸 Dark Mode
+
+![Dark Mode](src/Public/Assets/1.2.png)
+
+### 🔸 Trending Section
+
+![Trending](src/Public/Assets/4.png)
+
 
 ## Folder Sturcture
 
