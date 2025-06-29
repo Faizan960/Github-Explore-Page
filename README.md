@@ -54,15 +54,24 @@ npm run dev
 
 ### 🔸 Home Page
 
-![Home Page](src/Public/Assets/1.png)
+![Home Page](src/Public/Assets/1.2.png)
 
 ### 🔸 Dark Mode
 
-![Dark Mode](src/Public/Assets/1.2.png)
+![Dark Mode](src/Public/Assets/1.png)
+
+### 🔸 Repo Section
+
+![Trending](src/Public/Assets/3.png)
 
 ### 🔸 Trending Section
 
 ![Trending](src/Public/Assets/4.png)
+
+### 🔸 Profile Section
+
+![Profile](src/Public/Assets/2.2.png)
+![Profile](src/Public/Assets/2.png)
 
 
 ## Folder Sturcture
